@@ -1,4 +1,4 @@
-# Assignment 0 - 题库管理系统
+# Assignment 0 - 校园二手书交易平台
 
 ## 1. 团队信息
 - 队名: HuangDuSAD
@@ -6,28 +6,14 @@
 
 
 ## 2. 项目背景
-- 学校
-  - 老师
-    - 出题
-    - 组卷
-    - 发布作业
-    - 给出参考答案
-  - 学生
-    - 练习
-    - 答题
-    - 考试
+  Given that students routinely have unused books and academic resources such as textbooks and that new students spend too much on textbooks, this software aims to facilitate and solve both of these problems among students by creating an open and inclusive platform for diversified sharing with a focus on second-hand book trading.
 ## 3. 主要目标（项目内容）
-1. 根据老师的要求，推荐相应的题目
-2. 老师发布任务，学生完成作业
-3. 老师批阅，系统自动处理客观题
-4. 题目正确率统计功能
+
 
 ## 4. 主要内容和特点
 
 ## 5. 目标用户
-- 管理员
-- 老师
-- 学生
+
 ## 6. 现有同类产品分析
 
 ## 7. 解决方案的新颖性
