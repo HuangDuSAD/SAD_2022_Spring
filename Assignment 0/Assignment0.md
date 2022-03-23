@@ -1,19 +1,33 @@
 # Assignment 0 - 题库管理系统
 
 ## 1. 团队信息
-- 队名: 
-- 成员:
+- 队名: HuangDuSAD
+- 成员: 
+
 
 ## 2. 项目背景
-
+- 学校
+  - 老师
+    - 出题
+    - 组卷
+    - 发布作业
+    - 给出参考答案
+  - 学生
+    - 练习
+    - 答题
+    - 考试
 ## 3. 主要目标（项目内容）
-. Comprehensively apply object-oriented, combined with what is learned in the system analysis and design course, to make a reasonable plan for the system;
-. 
+1. 根据老师的要求，推荐相应的题目
+2. 老师发布任务，学生完成作业
+3. 老师批阅，系统自动处理客观题
+4. 题目正确率统计功能
 
 ## 4. 主要内容和特点
 
 ## 5. 目标用户
-
+- 管理员
+- 老师
+- 学生
 ## 6. 现有同类产品分析
 
 ## 7. 解决方案的新颖性
@@ -23,3 +37,4 @@
 ## 9. 相关技术
 
 ## 10. 项目相关资源
+ 
