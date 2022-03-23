@@ -7,6 +7,8 @@
 ## 2. 项目背景
 
 ## 3. 主要目标（项目内容）
+. Comprehensively apply object-oriented, combined with what is learned in the system analysis and design course, to make a reasonable plan for the system;
+. 
 
 ## 4. 主要内容和特点
 
