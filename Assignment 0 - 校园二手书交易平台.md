@@ -38,7 +38,7 @@
 
 ## 4. 主要内容和特点
 
-### 内容
+### 4.1 内容
 
 ​	通过网页构建一个卖家和买家交流的平台，为双方提供以下服务：
 
@@ -48,7 +48,7 @@
 3. 卖家将闲置的书籍出售
 4. 爱心人士捐赠书籍
 
-### 特点
+### 4.2 特点
 
 ​	功能特点：
 
@@ -68,26 +68,26 @@
 
 
 ## 5. 目标用户和可用性目标
-### 目标用户
+### 5.1 目标用户
 
-1. Students who have a lot of unused textbooks at the end of the semester and have no way to dispose of them
-2. Students who have spent too much money to buy textbooks at the beginning of the semester
-3. Students who need a used book but can't find it in the market
-4. 希望捐赠书籍的学生：通过平台与学校图书馆和爱心公益亭联系，将书籍妥善保管。
+1. 学期结束时有大量未使用的教科书而又无从处理的学生
+2. 在学期初花了太多钱买课本的学生
+3. 需要二手书但在市场上找不到的学生
+4. 希望捐赠书籍的学生
 
-### Usability goals
+### 5.2 可用性目标
 
-1. Compared with traditional bookstores, the process of earning price difference is reduced, so that students can get books at a lower price.
-2. Compared to online book buying, on-campus book trading reduces the delivery process and is more convenient and fast
-3. The market is concentrated on campus, and the book inventory is more abundant and targeted
+1. 与传统书店相比，减少了赚取差价的过程，使学生能以较低的价格获得书籍。
+2. 与网上购书相比，校内图书交易减少了配送过程，更加方便快捷
+3. 市场集中在校园内，图书库存更丰富，更有针对性
 
+## 6. 现有同类产品的分析
 
-## 6. 现有同类产品分析
+与孔夫子二手书、二手书街等相比，本平台具有以下优势
 
-Compared with Confucius Used Books, Used Books Street, etc., this platform has the following advantages
-1. The platform is more accurate in terms of groups and landing areas (students and schools), and the corresponding books are more abundant
-2. The transaction scope is concentrated in the school, which saves the seller shipping cost and the buyer can get the purchased books on the same day.
-3. Linkage with the school academic system, providing guidance for students' book purchases
+- 平台的服务群体和服务区域（学生和学校）更加精准，相应的图书也更加丰富
+- 交易范围集中在学校，节省卖家运费，买家可在当天拿到所购图书。
+- 与学校教务系统联动，为学生购书提供指导
 
 ## 7. 解决方案的新颖性
 
