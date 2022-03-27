@@ -35,7 +35,7 @@
 ​	Books play an indispensable role in the daily study life of university students, whether they are textbooks, tools or literary works such as novels, which not only increase students' professional knowledge but also enrich their spiritual world.
 
 ## 3. 主要目标（项目内容）
-1. 全面应用面向对象，结合‎在系统分析设计‎课程中学到的内容，为系统制定合理的规划，强化系统设计与分析的能力。
+1. 全面应用面向对象，结合在系统分析设计课程中学到的内容，为系统制定合理的规划，强化系统设计与分析的能力。
 2. 为书籍的交易提供便利，为买书和卖书的人之间提供桥梁。
 3. 提供书籍捐赠服务，暂存用户捐赠的书籍到图书馆，避免书籍的不合理浪费。
 4. 与校方合作，根据各个课程老师的要求，为校园用户提供购书推荐。
@@ -86,5 +86,20 @@
 
 ## 9. 相关技术
 
+1. 建模：UML
+2. 数据库：Mysql
+3. 前端：Vue，Bootstrap
+4. 服务端：Spring，SpringMVC，MyBatis
+5. 架构：B/S
+
 ## 10. 项目相关资源
- 
+
+## 10.1 参考项目地址
+
+1. [基于ssm的校园二手交易平台](https://github.com/wsk1103/Used-Trading-Platform)
+2. [二手书交易系统](https://github.com/DaDaDouDouer/atschool)
+
+## 10.2 相关资料
+
+1. [“石大众阅享书网”二手书交易平台的分析与实现](https://www.cnki.com.cn/Article/CJFDTOTAL-KXZG201714069.htm)
+2. [Spring Framework Reference](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
